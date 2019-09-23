@@ -13,7 +13,7 @@ Each model file comes with a companion preview png picture.
 
 The [tools/voxobjrename](tools/voxobjrename) directory contains a tool to rename exported objects to match the MagicaVoxel object name.
 
-# License
+# Model License
 Creative Commons License Attribution-NonCommercial-ShareAlike 3.0 Unported (CC BY-NC-SA 3.0)
 
 This is a human-readable summary of the Legal Code.
